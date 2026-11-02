@@ -1,0 +1,187 @@
+{
+  "generated_at": "2026-11-02T00:00:00",
+  "stores": [
+    {
+      "store_code": "JKT-01",
+      "store_name": "Toko Sudirman",
+      "location": {
+        "city": "Jakarta",
+        "province": "DKI Jakarta",
+        "region": "Jawa"
+      },
+      "manager": {
+        "name": "Andi Pratama",
+        "phone": "081210001001"
+      },
+      "attributes": {
+        "format": "Hypermarket",
+        "area_sqm": 2400,
+        "open_24h": false
+      },
+      "opened_date": "2019-03-12",
+      "tags": [
+        "retail",
+        "hypermarket"
+      ]
+    },
+    {
+      "store_code": "JKT-02",
+      "store_name": "Toko Kelapa Gading",
+      "location": {
+        "city": "Jakarta",
+        "province": "DKI Jakarta",
+        "region": "Jawa"
+      },
+      "manager": {
+        "name": "Rina Wulandari",
+        "phone": "081210001002"
+      },
+      "attributes": {
+        "format": "Supermarket",
+        "area_sqm": 1200,
+        "open_24h": false
+      },
+      "opened_date": "2020-07-01",
+      "tags": [
+        "retail",
+        "supermarket"
+      ]
+    },
+    {
+      "store_code": "BDG-01",
+      "store_name": "Toko Dago",
+      "location": {
+        "city": "Bandung",
+        "province": "Jawa Barat",
+        "region": "Jawa"
+      },
+      "manager": {
+        "name": "Dedi Kurniawan",
+        "phone": "081210001003"
+      },
+      "attributes": {
+        "format": "Supermarket",
+        "area_sqm": "1100 m2",
+        "open_24h": false
+      },
+      "opened_date": "2020-11-20",
+      "tags": [
+        "retail",
+        "supermarket"
+      ]
+    },
+    {
+      "store_code": "SBY-01",
+      "store_name": "Toko Tunjungan",
+      "location": {
+        "city": "Surabaya",
+        "province": "Jawa Timur",
+        "region": "Jawa"
+      },
+      "manager": {
+        "name": "Siti Aminah",
+        "phone": "081210001004"
+      },
+      "attributes": {
+        "format": "Hypermarket",
+        "area_sqm": 2100,
+        "open_24h": false
+      },
+      "opened_date": "2018-05-05",
+      "tags": [
+        "retail",
+        "hypermarket"
+      ]
+    },
+    {
+      "store_code": "MDN-01",
+      "store_name": "Toko Medan Kota",
+      "location": {
+        "city": "Medan",
+        "province": "Sumatera Utara",
+        "region": "Sumatera"
+      },
+      "manager": {
+        "name": "Hendra Sinaga",
+        "phone": "081210001005"
+      },
+      "attributes": {
+        "format": "Supermarket",
+        "area_sqm": 1300,
+        "open_24h": false
+      },
+      "opened_date": "2021-02-14",
+      "tags": [
+        "retail",
+        "supermarket"
+      ]
+    },
+    {
+      "store_code": "PKU-01",
+      "store_name": "Toko Sudirman Pekanbaru",
+      "location": {
+        "city": "Pekanbaru",
+        "province": "Riau",
+        "region": "Sumatera"
+      },
+      "manager": {
+        "name": "Yusuf Hakim",
+        "phone": "081210001006"
+      },
+      "attributes": {
+        "format": "Minimarket",
+        "open_24h": false
+      },
+      "opened_date": "2022-08-17",
+      "tags": [
+        "retail",
+        "minimarket"
+      ]
+    },
+    {
+      "store_code": "MKS-01",
+      "store_name": "Toko Panakkukang",
+      "location": {
+        "city": "Makassar",
+        "province": "Sulawesi Selatan",
+        "region": "Sulawesi"
+      },
+      "manager": {
+        "name": "Nurhayati"
+      },
+      "attributes": {
+        "format": "Supermarket",
+        "area_sqm": 1000,
+        "open_24h": false
+      },
+      "opened_date": "2021-09-09",
+      "tags": [
+        "retail",
+        "supermarket"
+      ]
+    },
+    {
+      "store_code": "SMG-01",
+      "store_name": "Toko Simpang Lima",
+      "location": {
+        "city": "Semarang",
+        "province": "Jawa Tengah",
+        "region": "Jawa"
+      },
+      "manager": {
+        "name": "Bambang Setiawan",
+        "phone": "081210001008"
+      },
+      "attributes": {
+        "format": "Minimarket",
+        "area_sqm": 520,
+        "open_24h": false
+      },
+      "opened_date": "2023-01-30",
+      "tags": [
+        "retail",
+        "minimarket"
+      ]
+    }
+  ]
+}
